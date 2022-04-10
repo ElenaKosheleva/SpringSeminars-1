@@ -56,3 +56,4 @@ git push
 * зафиксировать изменения (git commmit -a -m "");
 * отправить свою версию в свой GitHub (git push);
 * на сайте GitHub нажать кнопку pul request.
+* 
